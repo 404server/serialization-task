@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "firstName": "Иван",
+    "lastName": "Петров",
+    "middleName": "Алексеевич",
+    "email": "ivan.petrov@example.com",
+    "sex": "male",
+    "age": 30
+  },
+  {
+    "id": 2,
+    "firstName": "Анна",
+    "lastName": "Сидорова",
+    "middleName": "Игоревна",
+    "email": "anna.sidorova@example.com",
+    "sex": "female",
+    "age": 25
+  },
+  {
+    "id": 3,
+    "firstName": "Дмитрий",
+    "lastName": "Кузнецов",
+    "middleName": "Владимирович",
+    "email": "dmitry.kuznetsov@example.com",
+    "sex": "male",
+    "age": 40
+  },
+  {
+    "id": 4,
+    "firstName": "Екатерина",
+    "lastName": "Смирнова",
+    "middleName": "Андреевна",
+    "email": "ekaterina.smirnova@example.com",
+    "sex": "female",
+    "age": 28
+  },
+  {
+    "id": 5,
+    "firstName": "Алексей",
+    "lastName": "Морозов",
+    "middleName": "Сергеевич",
+    "email": "alexey.morozov@example.com",
+    "sex": "male",
+    "age": 35
+  },
+  {
+    "id": 6,
+    "firstName": "Сергей",
+    "lastName": "Иванов",
+    "middleName": "Николаевич",
+    "email": "sergey.ivanov@example.com",
+    "sex": "male",
+    "age": 32
+  },
+  {
+    "id": 7,
+    "firstName": "Мария",
+    "lastName": "Павлова",
+    "middleName": "Александровна",
+    "email": "maria.pavlova@example.com",
+    "sex": "female",
+    "age": 27
+  },
+  {
+    "id": 8,
+    "firstName": "Артем",
+    "lastName": "Васильев",
+    "middleName": "Дмитриевич",
+    "email": "artem.vasiliev@example.com",
+    "sex": "male",
+    "age": 29
+  },
+  {
+    "id": 9,
+    "firstName": "Ольга",
+    "lastName": "Зайцева",
+    "middleName": "Григорьевна",
+    "email": "olga.zaitseva@example.com",
+    "sex": "female",
+    "age": 24
+  },
+  {
+    "id": 10,
+    "firstName": "Николай",
+    "lastName": "Фёдоров",
+    "middleName": "Сергеевич",
+    "email": "nikolay.fedorov@example.com",
+    "sex": "male",
+    "age": 41
+  },
+  {
+    "id": 11,
+    "firstName": "Иван",
+    "lastName": "Петров",
+    "middleName": "Алексеевич",
+    "email": "ivan.petrov@example.com",
+    "sex": "male",
+    "age": 30
+  },
+  {
+    "id": 12,
+    "firstName": "Анна",
+    "lastName": "Сидорова",
+    "middleName": "Игоревна",
+    "email": "anna.sidorova@example.com",
+    "sex": "female",
+    "age": 25
+  },
+  {
+    "id": 13,
+    "firstName": "Дмитрий",
+    "lastName": "Кузнецов",
+    "middleName": "Владимирович",
+    "email": "dmitry.kuznetsov@example.com",
+    "sex": "male",
+    "age": 40
+  },
+  {
+    "id": 14,
+    "firstName": "Екатерина",
+    "lastName": "Смирнова",
+    "middleName": "Андреевна",
+    "email": "ekaterina.smirnova@example.com",
+    "sex": "female",
+    "age": 28
+  },
+  {
+    "id": 15,
+    "firstName": "Алексей",
+    "lastName": "Морозов",
+    "middleName": "Сергеевич",
+    "email": "alexey.morozov@example.com",
+    "sex": "male",
+    "age": 35
+  }
+]
