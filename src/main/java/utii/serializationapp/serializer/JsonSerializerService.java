@@ -28,7 +28,7 @@ public class JsonSerializerService implements Serializer {
     @Override
     public void serialize(String path) {
         System.out.println("Сериализация в JSON: " + path);
-        try (var inputStream = getClass().getClassLoader().getResourceAsStream(path)) {
+        try (var inputStream = getClass().getClassLoader().getResourceAsStream(path + ".json")) {
             if (inputStream == null) {
                 throw new IOException("Файл не найден");
             }

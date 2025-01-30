@@ -22,7 +22,7 @@ public class CsvSerializerService implements Serializer {
     @Override
     public void serialize(String path) {
         System.out.println("Сериализация в CSV: " + path);
-        try (var inputStream = getClass().getClassLoader().getResourceAsStream(path)) {
+        try (var inputStream = getClass().getClassLoader().getResourceAsStream(path + ".csv")) {
             if (inputStream == null) {
                 throw new IOException("Файл не найден");
             }
