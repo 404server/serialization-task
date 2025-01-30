@@ -17,7 +17,7 @@ public class SerializationAppApplication implements CommandLineRunner {
     }
 
     @Override
-    public void run(String... args) throws Exception {
+    public void run(String... args) {
         switch (args[1]) {
             case "out" -> serializer.deserialize();
             case "in" -> serializer.serialize(args[2]);
