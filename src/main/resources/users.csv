@@ -1,0 +1,11 @@
+id,firstName,lastName,middleName,email,age,sex
+41,Иван,Петров,Алексеевич,ivan.petrov@example.com,30,male
+42,Анна,Сидорова,Игоревна,"anna.sidorova@example.com",25,female
+43,Дмитрий,Кузнецов,Владимирович,"dmitry.kuznetsov@example.com",40,male
+44,Екатерина,Смирнова,Андреевна,"ekaterina.smirnova@example.com",28,female
+45,Алексей,Морозов,Сергеевич,"alexey.morozov@example.com",35,male
+46,Сергей,Иванов,Николаевич,"sergey.ivanov@example.com",32,male
+47,Мария,Павлова,Александровна,"maria.pavlova@example.com",27,female
+48,Артем,Васильев,Дмитриевич,"artem.vasiliev@example.com",29,male
+49,Ольга,Зайцева,Григорьевна,"olga.zaitseva@example.com",24,female
+50,Николай,Фёдоров,Сергеевич,"nikolay.fedorov@example.com",41,male

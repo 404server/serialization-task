@@ -1,0 +1,42 @@
+[
+  {
+    "firstName": "Иван",
+    "lastName": "Петров",
+    "middleName": "Алексеевич",
+    "email": "ivan.petrov@example.com",
+    "sex": "male",
+    "age": 30
+  },
+  {
+    "firstName": "Анна",
+    "lastName": "Сидорова",
+    "middleName": "Игоревна",
+    "email": "anna.sidorova@example.com",
+    "sex": "female",
+    "age": 25
+  },
+  {
+    "firstName": "Дмитрий",
+    "lastName": "Кузнецов",
+    "middleName": "Владимирович",
+    "email": "dmitry.kuznetsov@example.com",
+    "sex": "male",
+    "age": 40
+  },
+  {
+    "firstName": "Екатерина",
+    "lastName": "Смирнова",
+    "middleName": "Андреевна",
+    "email": "ekaterina.smirnova@example.com",
+    "sex": "female",
+    "age": 28
+  },
+  {
+    "firstName": "Алексей",
+    "lastName": "Морозов",
+    "middleName": "Сергеевич",
+    "email": "alexey.morozov@example.com",
+    "sex": "male",
+    "age": 35
+  }
+]
